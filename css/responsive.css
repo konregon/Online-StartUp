@@ -1,0 +1,361 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+/* header */
+.header {
+	height: 400px;
+}
+.h-content {
+	width: 300px;
+	margin-top: 60px;
+}
+.head {
+	font-size: 14px;
+	text-align: start;
+}
+.h-content h1{
+	font-size: 28px;
+	letter-spacing: 1px;
+	
+}
+.headline {
+	width: 94%;
+	height: 47px;
+	border-radius: 3px;
+}
+.headline p {
+	font-size: 14px;
+	padding: 0 3px;
+	padding-top: 3px;
+}
+.c-header h2 {
+	text-align: start;
+}
+/*Search Toggle*/
+.header-logo img {
+	width: 40px;
+}
+.header-search {
+    padding: 18px 50px 18px 0;
+ }
+a.meanmenu-reveal {
+	top: -60px;
+}
+
+/* navbar */
+.padding-y {
+	margin-right: 10px;
+	margin-left: 10px;
+}
+/* features */
+.f-single {
+	text-align: center;
+}
+.f-single i {
+	padding-bottom: 10px !important;
+}
+.f-single p {
+	text-align: center !important;
+}
+.f-image {
+	width: 75%;
+    margin-right: 38px;
+	padding-top: 20px;
+}
+/* svg */
+svg.radial-progress {
+	max-width: 100px;
+	margin: 0 auto;
+}
+.svg-item {
+	text-align: center;
+}
+
+.svg-item  h3 {
+	font-size: 14px;
+}
+/* Recommand */
+.recommand {
+	padding: 10px 0;
+}
+.r-left  {
+	text-align: center !important;
+	padding-top: 0 !important;
+}
+.r-right {
+	text-align: center;
+	padding-top: 0 !important;
+	padding-bottom: 10px;
+}
+.r-right a {
+	/* padding: 2px 8px; */
+}
+/* Team section */
+.userProfileInfo {
+	
+}
+/*-- Testimonial Slider --*/
+/* st-c item */
+.st-c h2{
+	font-size: 15px;
+}
+.st-c i {
+	font-size: 13px;
+}
+.slick-prev,
+.slick-next {
+	display: none !important;
+}
+ /* Contact Form Section  */
+ .c-form {
+	padding: 50px 0;
+}
+.contactform1 {
+    width: 320px;
+}
+.contactform1 input.form-fields1,
+.contactform1 button.form-fields1,
+.contactform1 textarea.form-fields1 {
+    width: 280px;
+    min-height: 40px;
+    margin: 0 auto;
+}
+.contmap {
+	height: 300px;
+}
+}
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+/* header */
+.h-content {
+	width: 503px;
+	margin: 0 auto;
+	margin-top: 100px;
+}
+.head {
+	font-size: 16px;
+	text-align: center;
+}
+.h-content h1{
+	font-size: 49px;
+}
+.headline p {
+	font-size: 15px;
+	text-align: center;
+	padding: 0 4px;
+	padding-top: 3px;
+}
+/*Header*/
+.header-logo {
+  margin: 18px 0;
+}
+.header-logo img {
+	width: 40px;
+}
+.header-search {
+    padding: 20px 50px 18px 0;
+ }
+.menu-toggle {
+  margin: 25px 0;
+}
+/*Header Buttons*/
+.header-section .btn, .header-social {
+  margin: 18px 50px 18px 0;
+}
+.header-search {
+  padding: 18px 50px 18px 0;
+}
+/*Mobile Menu Toggle*/
+a.meanmenu-reveal {
+  top: -55px;
+}
+/* features */
+.f-single {
+	text-align: center;
+}
+.f-single i {
+	padding-bottom: 10px !important;
+}
+.f-single p {
+	text-align: center !important;
+}
+.f-image {
+	width: 75%;
+    margin-right: 63px;
+	padding-top: 20px;
+}
+/* svg */
+svg.radial-progress {
+	max-width: 150px;
+}
+.svg-item  h3 {
+	font-size: 14px;
+}
+/* Recommand */
+.recommand {
+	padding: 10px 0;
+}
+.r-left  {
+	text-align: center !important;
+	padding-top: 0 !important;
+}
+.r-right {
+	text-align: center;
+	padding-top: 0 !important;
+	padding-bottom: 10px;
+}
+/* Team Section */
+.userProfileInfo .username {
+	right: 17%;
+	left: 17%;
+}
+/* Contact */
+.contmap {
+	height: 300px;
+}
+}
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+/* header */
+.h-content {
+	margin: 0 auto;
+	margin-top: 115px;
+}
+.h-content h1 {
+	font-size: 53px;
+	text-align: center;
+}
+.headline {
+    width: 96%;
+    margin-left: 10px;
+    text-align: center;
+}
+/*Header Buttons*/
+.header-section .btn, .header-search, .header-social {
+  margin-right: 50px;
+}
+.header-search {
+  padding-right: 50px;
+}
+/* navbar */
+.padding-y {
+	margin-left: 10px;
+}
+/* features */
+.f-single i {
+	padding-bottom: 10px !important;
+}
+.f-single {
+	text-align: center;
+}
+.f-image {
+	width: 70%;
+	margin-right: 100px;
+	padding-top: 20px;
+}
+.f-single p {
+	text-align: center !important;
+}
+.f-14 {
+	font-size: 14px;
+}
+/* svg */
+svg.radial-progress {
+	max-width: 150px;
+}
+/* Recommand */
+.recommand {
+	padding: 10px 0;
+}
+.r-left  {
+	text-align: center !important;
+	padding-top: 0 !important;
+}
+.r-right {
+	text-align: center;
+	padding-top: 0 !important;
+	padding-bottom: 10px;
+}
+
+}
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+/* header */
+.h-content {
+	width: 500px;
+	margin-top: 130px;
+}
+.h-content h1{
+	font-size: 48px;
+}
+.headline {
+	width: 98%;
+}
+.headline p {
+    font-size: 15px;
+ }
+/* features */
+.f-image {
+	margin-left: 90px;
+	padding-top: 81px;
+}
+.more-features p {
+ width: 105%;
+}
+/* Team Section */
+.userProfileInfo .username {
+	right: 17%;
+	left: 17%;
+}
+.userProfileInfo .username a{
+	font-size: 16px;
+	padding: 5px 10px;
+}
+.userProfileInfo .box .name {
+	font-size: 14px !important;
+}
+/* purchase section */
+.pur-content h2 {
+	padding-bottom: 0;
+}
+}
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+.main-menu > ul > li > a {
+  font-size: 14px;
+}
+/* header */
+.h-content h1 {
+    font-size: 54px;
+}
+.headline {
+    width: 98%;
+}
+.headline p {
+    font-size: 17px;
+    text-align: center;
+    padding-right: 0;
+    padding-left: 0;
+}
+/* features */
+.f-image {
+	margin-left: 105px;
+	padding-top: 22px;
+}
+.more-features p {
+ width: 105%;
+}
+/* Team Section */
+.userProfileInfo .username {
+	right: 19%;
+	left: 19%;
+}
+/* purchase section */
+.pur-content h2 {
+	padding-bottom: 0;
+	padding-left: 70px;
+}
+}
